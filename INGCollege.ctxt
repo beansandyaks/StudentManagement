@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=INGCollege
+comment1.params=
+comment1.target=INGCollege()
+comment1.text=\r\n\ \ \ \ \ \ \ Constructor\ of\ INGCollege\ class\ where\ GUI\ has\ been\ initialized\ \r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ \ \ \ \ \ \ actionPerformed\ method\ that\ handles\ all\ the\ actions\ that\ will\ be\ executed\ when\ an\ specific\ action\ occurs.\r\n\ \ \ \ \ \ \ It\ has\ parameter\ ActionEvent\ class\ with\ name\ e.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ \ \ \ \ \ \ Main\ Method\ to\ create\ object\ of\ constructor\r\n
+numComments=4

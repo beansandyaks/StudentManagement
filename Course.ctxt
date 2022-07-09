@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n@description\:\ This\ is\ a\ Course\ Class.\ It\ has\ four\ attributes\:\ CourseID,\ CourseName,\ CourseLeader\ and\ Duration.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ It\ has\ accessor\ method\ for\ each\ attribute.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ main\ use\ of\ this\ class\ is\ to\ set\ the\ course\ leader\ to\ a\ new\ name\ and\ display\ the\ CourseID,\ CourseName,\ CourseLeader\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ Duration.\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n@author\:\ Binayak\ Maharjan\r\n
+comment1.params=CourseID\ CourseName\ Duration
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ \ \ \ \ parameter\:\ CourseID,\ CourseName\ as\ String\ and\ Duration\ as\ int\r\n\ \ \ \ \ return\:\ \r\n\ \ \ \ \ description\:\ This\ is\ a\ constructor\ of\ Course\ class\ which\ has\ public\ access\ modifier.\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ It\ takes\ CourseID,\ CourseName\ and\ Duration\ as\ parameters\ and\ initializes\ them\ by\ using\ this\ keyword.\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ CourseLeader\ is\ initialized\ as\ empty\ string.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCourseID()
+comment3.params=
+comment3.target=java.lang.String\ getCourseName()
+comment4.params=
+comment4.target=java.lang.String\ getCourseLeader()
+comment5.params=
+comment5.target=int\ getDuration()
+comment6.params=newCourseLeader
+comment6.target=void\ setCourseLeader(java.lang.String)
+comment6.text=\ \r\n\ \ \ \ \ parameter\:\ newCourseLeader\ with\ String\ data\ type\r\n\ \ \ \ \ return\:\r\n\ \ \ \ \ description\:\ This\ is\ a\ setter\ method\ that\ sets\ the\ CourseLeader\ to\ to\ a\ newCourseLeader\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ by\ accepting\ the\ newCourseLeader\ as\ a\ parameter\r\n
+comment7.params=
+comment7.target=void\ display()
+comment7.text=\ \r\n\ \ \ \ \ parameter\:\ None\r\n\ \ \ \ \ return\:\ CourseID,\ CourseName\ and\ CourseLeader\ as\ String\ and\ Duration\ as\ int\ \r\n\ \ \ \ \ description\:\ This\ is\ a\ display\ method\ that\ prints\ the\ CourseID,\ CourseName\ and\ Duration\ as\ output\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ If\ the\ CourseLeader\ is\ not\ empty\ it\ prints\ the\ CourseLeader\ too.\ All\ the\ outputs\ are\ suitably\ annotated\ \r\n
+numComments=8
